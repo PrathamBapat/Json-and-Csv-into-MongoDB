@@ -10,3 +10,6 @@ Use this to push your JSON file into the running mongoDB local server.
 # 3) view .py
 To view the data available in a respected collection of your chosen database.
 
+# 4) Api.py
+A web API to locally view database collection in the browser.
+
